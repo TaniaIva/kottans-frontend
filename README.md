@@ -7,7 +7,8 @@
 ![image](https://user-images.githubusercontent.com/109870179/188275970-33e8fb67-9496-4eb8-a137-3a1247625db9.png)
 ![image](https://user-images.githubusercontent.com/109870179/188275988-f45504fc-091f-4c89-9474-f19fd53274a5.png)
 все нове та цікаве, надіюсь, що запам'ятаю багато і буду використовувати всі знання. Дякую)
-####Intro to HTML and CSS
+
+## Intro to HTML and CSS
 ![image](https://user-images.githubusercontent.com/109870179/188943682-74bc5e6a-4113-4738-a5dc-49452bb401d3.png)
 HTML - нове і здивувало,що в тег video потрібно добавляти атрибут controls для добавлення елементів паузи і відтворення і що між <video></video> потрібно писати Відео не підтримується(що це як типу атрибут alt в тега img). Всіздобуті знання хотілося б використовувати.
 ![image](https://user-images.githubusercontent.com/109870179/188943715-54cebaa3-3f16-4ab4-ab73-b55d8b53c4cc.png)

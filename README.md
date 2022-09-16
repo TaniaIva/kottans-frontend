@@ -13,5 +13,10 @@
 HTML - нове і здивувало,що в тег video потрібно добавляти атрибут controls для добавлення елементів паузи і відтворення і що між <video></video> потрібно писати Відео не підтримується(що це як типу атрибут alt в тега img). Всіздобуті знання хотілося б використовувати.
 ![image](https://user-images.githubusercontent.com/109870179/188943715-54cebaa3-3f16-4ab4-ab73-b55d8b53c4cc.png)
 CSS - не знала, що, коли в HTML в <head></head> добавляємо <style></style>,  то це називається внутрішня таблиця стилів. (нове і здивувало). Всі знання хотілося б використовувати вже в теперішньому.
-
+## Responsive Web Design
+![Flexbox_Froggy_done](https://user-images.githubusercontent.com/109870179/190649289-b1f98f46-24b6-49de-aae5-c5ea874a6961.jpg)
+![Grid_Garden](https://user-images.githubusercontent.com/109870179/190649353-bc21f686-6771-48cd-9d91-1c2998c2fcc2.jpg)
+Було новим все, оскільки я новачок
+Здивував функціонал Flex and Grid
+Хотіла б використовувати все вивчене.
 
